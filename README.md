@@ -1,3 +1,3 @@
 # HelloWorld
 Just another repository
-Try update readme
+Life hurts a lot more than death
